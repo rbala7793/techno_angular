@@ -1,0 +1,1 @@
+https://www.coditty.com/code/angular-6-material-snack-bar-fire-when-interceptor-throws-a-error
